@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "Name": "Student A",
+      "DOB": "15-02-1990",
+      "Score": "94"
+    },
+    {
+      "id": 2,
+      "Name": "Student B",
+      "DOB": "17-02-1990",
+      "Score": "82"
+    },
+    {
+      "id": 3,
+      "Name": "Student C",
+      "DOB": "10-02-1990",
+      "Score": "78"
+    },
+    {
+      "Name": "Student D",
+      "DOB": "10-02-1990",
+      "Score": "92",
+      "id": 4
+    }
+  ]
+}
